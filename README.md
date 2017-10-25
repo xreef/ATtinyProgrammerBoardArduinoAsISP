@@ -9,9 +9,9 @@ Arduino uno have IOREF instead.
 ## ATtiny13a variant
 I buy ATtiny13a very low cost IC (less than 0.5€), with 4 analog pin and 2 PWM/TIMER PIN. 
 
-![ATtiny13a pinout](./resources/ATtiny13a_pinout.png)
+![ATtiny13a pinout](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/addition/ATtiny13a_pinout.png)
 
-![ATtiny13a isp](./resources/attiny13-isp.png)
+![ATtiny13a isp](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/addition/attiny13-isp.png)
 
 
 ## How to program an ATtiny:
@@ -76,19 +76,19 @@ void loop()
 
 Board v01:
 
-![board v01](./Resources/schema/AttinyProgrammerBoardArduinoAsISPv01_bb.jpg)
+![board v01](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/schema/AttinyProgrammerBoardArduinoAsISPv01_bb.png)
 
 Board v01 (Original ArduinoUNO):
 
-![board v01](./resources/AttinyProgrammerBoardArduinoOriginalAsISPv01_bb.jpg)
+![board v01](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/schema/AttinyProgrammerBoardArduinoOriginalAsISPv01_bb.png)
 
 Board v02 (power led):
 
-![board v02](./resources/AttinyProgrammerBoardArduinoAsISPv02_bb.jpg)
+![board v02](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/schema/AttinyProgrammerBoardArduinoAsISPv02_bb.png)
 
 Board v03 (test led):
 
-![board v03](./resources/AttinyProgrammerBoardArduinoAsISPv03_bb.jpg)
+![board v03](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/schema/AttinyProgrammerBoardArduinoAsISPv03_bb.png)
 
 ## Material
 
@@ -134,15 +134,19 @@ Board v03 (test led):
 
 Preforated board up:
 
-![preforated up](https://github.com/xreef/LiquidCrystal_I2C/blob/master/resources/preforatedUp.jpg)
+![preforated up](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/foto/preforedUp.jpg)
 
 Preforated board down:
 
-![preforated down](https://github.com/xreef/LiquidCrystal_I2C/blob/master/resources/preforatedUp.jpg)
+![preforated down](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/foto/preforedBottom.jpg)
+
+Mount on Arduino:
+
+![Mount on Arduino](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/foto/mountOnArduino.jpg)
 
 After upload:
 
-![After upload](https://github.com/xreef/LiquidCrystal_I2C/blob/master/resources/preforatedUp.jpg)
+![After upload](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/foto/working.jpg)
 
 
 
