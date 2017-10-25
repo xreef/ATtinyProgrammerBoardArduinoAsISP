@@ -75,6 +75,10 @@ void loop()
    
 ## Schema:
 
+I use a [prefored board](https://www.aliexpress.com/item/10pcs-lot-3cm-x-7cm-Double-Side-prototype-pcb-3-7-Proto-Board/32685891618.html?spm=2114.search0104.3.1.q7TYLn&ws_ab_test=searchweb0_0,searchweb201602_3_10152_10065_10151_10344_10068_10345_10342_10343_10340_10341_10541_10084_10083_10304_10307_10177_5640015_5590015_10302_10060_10155_10154_10056_10055_10539_10538_5370015_10537_10312_10536_10059_10313_10184_10314_10534_10533_100031_10103_10073_10102_10142_10107,searchweb201603_30,ppcSwitch_2&btsid=0fc181c5-3d4e-4580-bf8d-0318e539854f&algo_expid=0158e307-1a76-404c-8a83-54b0cd5e7954-0&algo_pvid=0158e307-1a76-404c-8a83-54b0cd5e7954) to switch Voltage and to enable test led I use a smd on/off button instead pin with jumper.
+
+The board is double side so I can attach pin and componend up and down the board. 
+
 Board v01:
 
 ![board v01](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/schema/AttinyProgrammerBoardArduinoAsISPv01_bb.png)
