@@ -76,7 +76,7 @@ void loop()
 
 Board v01:
 
-![board v01](./resources/AttinyProgrammerBoardArduinoAsISPv01_bb.jpg)
+![board v01](./Resources/schema/AttinyProgrammerBoardArduinoAsISPv01_bb.jpg)
 
 Board v01 (Original ArduinoUNO):
 
