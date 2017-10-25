@@ -1,4 +1,5 @@
 # ATtiny programmer board (ArduinoUNO as ISP) #
+### ATtiny13/ATtiny13a/ATtiny25/ATtiny45/ATtiny85 ###
 I really like the ATtiny, and for programmaer It, so I build a simple board to use ArduinoUNO as ISP in a faster way.
 
 For Original ArduinoUNO there is a little variant because compatible one have another 5v VCC over RESET pin,  
