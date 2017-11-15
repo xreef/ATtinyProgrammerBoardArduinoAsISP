@@ -95,6 +95,10 @@ Board v03 (test led):
 
 ![board v03](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/schema/AttinyProgrammerBoardArduinoAsISPv03_bb.png)
 
+Schema v03 (test led):
+
+![Schema v03](https://github.com/xreef/ATtinyProgrammerBoardArduinoAsISP/blob/master/Resources/schema/AttinyProgrammerBoardArduinoAsISPv03_schem.png)
+
 ## Material
 
 ## Assembly List
