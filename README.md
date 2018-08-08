@@ -1,4 +1,7 @@
 # ATtiny programmer board (ArduinoUNO as ISP) #
+
+[![Video of Attiny board](https://img.youtube.com/vi/1quiiXZAxs8/0.jpg)](https://www.youtube.com/watch?v=1quiiXZAxs8)
+
 ### ATtiny13/ATtiny13a/ATtiny25/ATtiny45/ATtiny85 ###
 I really like the ATtiny, and for programmaer It, so I build a simple board to use ArduinoUNO as ISP in a faster way.
 
