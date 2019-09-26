@@ -1,3 +1,6 @@
+### Additional information and document update here on my site: [ATtyny Article](https://www.mischianti.org/2019/08/02/attiny-programmer-board-arduinouno-as-isp/).
+
+
 # ATtiny programmer board (ArduinoUNO as ISP) #
 
 [![Video of Attiny board](https://img.youtube.com/vi/rCrS0gHoqbE/0.jpg)](https://www.youtube.com/watch?v=rCrS0gHoqbE)
